@@ -1,2 +1,2 @@
-# Personal-portfolio
-Personal portfolio website
+# Song-rizz
+A song listening website
